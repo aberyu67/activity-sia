@@ -1,0 +1,28 @@
+{
+  "name": "ricaplaza.sia",
+  "version": "1.0.0",
+  "description": "Class Activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy26-27"
+  ],
+  "homepage": "https://github.com/aberyu67/activity-sia#readme",
+  "bugs": {
+    "url": "https://github.com/aberyu67/activity-sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aberyu67/activity-sia.git"
+  },
+  "license": "ISC",
+  "author": "Ricaplaza, James",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
